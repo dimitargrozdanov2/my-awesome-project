@@ -1,0 +1,11 @@
+C:\git-demo\local-repo\remote\my-awesome-project\bin\Debug\netcoreapp2.1\my-awesome-project.deps.json
+C:\git-demo\local-repo\remote\my-awesome-project\bin\Debug\netcoreapp2.1\my-awesome-project.runtimeconfig.json
+C:\git-demo\local-repo\remote\my-awesome-project\bin\Debug\netcoreapp2.1\my-awesome-project.runtimeconfig.dev.json
+C:\git-demo\local-repo\remote\my-awesome-project\bin\Debug\netcoreapp2.1\my-awesome-project.dll
+C:\git-demo\local-repo\remote\my-awesome-project\bin\Debug\netcoreapp2.1\my-awesome-project.pdb
+C:\git-demo\local-repo\remote\my-awesome-project\obj\Debug\netcoreapp2.1\my-awesome-project.csprojAssemblyReference.cache
+C:\git-demo\local-repo\remote\my-awesome-project\obj\Debug\netcoreapp2.1\my-awesome-project.csproj.CoreCompileInputs.cache
+C:\git-demo\local-repo\remote\my-awesome-project\obj\Debug\netcoreapp2.1\my-awesome-project.AssemblyInfoInputs.cache
+C:\git-demo\local-repo\remote\my-awesome-project\obj\Debug\netcoreapp2.1\my-awesome-project.AssemblyInfo.cs
+C:\git-demo\local-repo\remote\my-awesome-project\obj\Debug\netcoreapp2.1\my-awesome-project.dll
+C:\git-demo\local-repo\remote\my-awesome-project\obj\Debug\netcoreapp2.1\my-awesome-project.pdb
